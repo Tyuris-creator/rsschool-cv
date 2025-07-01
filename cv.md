@@ -2,9 +2,9 @@
 ## 🧑‍💻 *Junior Frontend Developer* 
 ### **📫 How to reach me:**
 * **email**:
-  + tyuris@icloud.com
+  + <tyuris@icloud.com>
 * **telegram**
-  + https://t.me/aint_got_no_mercy
+  + <https://t.me/aint_got_no_mercy>
 * [LinkedIn](https://www.linkedin.com/in/tyuris)
 
 ## 🙋🏻‍♂️ Briefly About Myself: 
@@ -88,14 +88,14 @@ function divisibleTriangleNumber(n) {
 Although I am just beginning my journey in IT, I have actively developed my programming skills through hands-on projects and self-study. Below are some of the key initiatives I have worked on:
 
 * Web page for Digital-Studio (**Semantic HTML, SASS, adaptive layout**)
-  + code repository: https://github.com/Tyuris-creator/DIGITAL-Studio
-  + deployment link: https://digital-studio-iota.vercel.app/
+  + code repository: <https://github.com/Tyuris-creator/DIGITAL-Studio>
+  + deployment link: <https://digital-studio-iota.vercel.app/>
 * Business card web page (**Semantic HTML, SASS, adaptive layout**)
-  + code repository: https://github.com/Tyuris-creator/Business_card
-  + deployment link: https://business-card-nu-tawny.vercel.app/
+  + code repository: <https://github.com/Tyuris-creator/Business_card>
+  + deployment link: <https://business-card-nu-tawny.vercel.app/>
 
 * My SQL knowledge (thx to cs50 HARVARD)
-  + https://github.com/Tyuris-creator/SQL-Showcase
+  + <https://github.com/Tyuris-creator/SQL-Showcase>
 
 # 🎓 Education:
 
