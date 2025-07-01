@@ -105,10 +105,10 @@ Although I am just beginning my journey in IT, I have actively developed my prog
 4. [Harvard CS50 courses (in progress)](https://cs50.harvard.edu/x/2025/)
 5. [Arizona State University TESOL](https://www.coursera.org/account/accomplishments/professional-cert/DZ43YS2SRXWK?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
-# Languages:
-
+# 🗺️ Languages:
 * Russian: native
-* English: Intermediate
+* English: Intermediate (B1). Certified in TESOL (Teaching English to Speakers of Other Languages), specializing in instructing young learners from Asian countries.
+![сертификат](certificate.jpg)
 
 
 
