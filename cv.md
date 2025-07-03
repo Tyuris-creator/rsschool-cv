@@ -19,7 +19,7 @@
 * [LinkedIn](https://www.linkedin.com/in/tyuris)
 
 ## 🙋🏻‍♂️ Briefly About Myself: {#about}
-I am a 23-year-old student at Kazan National Research Technological University, majoring in Food Industry and Biotechnology. Throughout my studies, I have gained hands-on experience working in laboratories, ensuring product quality and adhering to industry standards.  
+My name is Michail and throughout my studies, I have gained hands-on experience working in laboratories, ensuring product quality and adhering to industry standards.  
 
 While my academic background, I have a strong passion for programming and technology. Computers and the internet have always been a big part of my life, and I am deeply motivated to create something of my own in the digital world. My curiosity drives me to explore new technologies, programming languages, libraries, and frameworks, as their vast possibilities align perfectly with my desire for continuous learning.  
 
