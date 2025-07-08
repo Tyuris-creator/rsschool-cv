@@ -170,3 +170,17 @@ iframe {
   overflow-x: none;
 }
 
+footer {
+  margin: 0 auto;
+  position: fixed;
+  background-image: linear-gradient(to bottom right, #ff3e9d, #0e1f40);
+  bottom: 0;
+  width: 100vw;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
