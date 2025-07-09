@@ -110,8 +110,7 @@ section {
 
 .about {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  flex-direction: column;
   width: 100%;
 }
 
@@ -162,8 +161,10 @@ tbody tr td > img {
   margin-bottom: 20px;
 }
 
-code {
-  border: 10px dashed rgb(43, 139, 43);
+.descr {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 iframe {
