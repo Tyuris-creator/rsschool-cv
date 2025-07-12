@@ -184,10 +184,10 @@ iframe {
 }
 
 footer {
-  position: fixed;
+  
   background-image: linear-gradient(to bottom right, #ff3e9d, #0e1f40);
   bottom: 0;
-  width: 100vw;
+  
 }
 
 .footer-container {
@@ -197,6 +197,14 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.rsschool {
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+  margin-top: 20px;
+  justify-content: center;
 }
 
 footer img {
@@ -211,3 +219,4 @@ footer img {
   display: flex;
   flex-direction: column;
 }
+
